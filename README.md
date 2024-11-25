@@ -1,6 +1,6 @@
 # VisionTrack-Euro2024
 
-Inside the scripts there are 7 files:
+Inside the scripts folder there are 7 files:
 
 1. extract_frames.py:
 Extracts frames from a video and saves them as individual .jpg files and saves individually in frames directory, if ran with another video frames will just be replaced
