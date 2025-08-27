@@ -1,9 +1,9 @@
 # VisionTrack-Euro2024
 
-Inside the scripts folder there are 7 files:
+Inside the scripts folder, there are 7 files meant to track, extract motion and patterns from football games:
 
 1. extract_frames.py:
-Extracts frames from a video and saves them as individual .jpg files and saves individually in frames directory, if ran with another video frames will just be replaced
+Extracts frames from a video and saves them as individual .jpg files and saves them individually in the frames directory. If run with another video frames will just be replaced
 
 2. calculate_optical_flow.py:
 Calculates the optical flow between consecutive frames and saves as flow.npy file in output folder
