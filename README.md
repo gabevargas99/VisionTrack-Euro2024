@@ -1,6 +1,6 @@
 # VisionTrack-Euro2024
 
-Inside the scripts folder, there are 7 files meant to track, extract motion and patterns from football games:
+Inside the scripts folder, there are 7 files meant to track, extract motion, and patterns from specific plays from football games:
 
 1. extract_frames.py:
 Extracts frames from a video and saves them as individual .jpg files and saves them individually in the frames directory. If run with another video frames will just be replaced
